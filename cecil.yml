@@ -1,6 +1,6 @@
 title: "Baraka's Site"
 baseline: 'This is my First site build with cecil'
-baseurl: 'https://baraka24.github.io/first-cecil-project/' #http://localhost:8000
+baseurl: '/first-cecil-project/' #http://localhost:8000
 description: 'Learning plateform using Markdown'
 author:
   name: Baraka
