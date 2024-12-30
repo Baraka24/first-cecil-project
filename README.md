@@ -62,3 +62,7 @@ Starting server (http://localhost:8000)...
 * Create a new page: ```cecil.phar new:page```
 
 Visit Cecil documentation for further details [Cecil documentation](https://cecil.app/documentation/quick-start/).
+
+Additionnally, you can build and deploy with [GitHub Actions](https://cecil.app/documentation/deploy/#continuous-build-hosting)
+
+This demo site is live at: [first-cecil-project](https://baraka24.github.io/first-cecil-project/)
