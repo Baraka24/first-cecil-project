@@ -6,9 +6,3 @@ author:
   name: Baraka
   url: 'https://github.com/Baraka24/'
 image: cecil-card.png
-pages:
-  virtual:
-    - path: blog-redirect
-      slug: blog
-      redirect: /first-cecil-project/blog/
-      uglyurl: true
